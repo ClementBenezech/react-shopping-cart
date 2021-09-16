@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.85e9f14e.chunk.css",
+    "main.css": "./static/css/main.2fe6f5a9.chunk.css",
     "main.js": "./static/js/main.ac1f07bd.chunk.js",
     "main.js.map": "./static/js/main.ac1f07bd.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f1c6efde.js",
@@ -10,14 +10,14 @@
     "static/js/3.6769a145.chunk.js": "./static/js/3.6769a145.chunk.js",
     "static/js/3.6769a145.chunk.js.map": "./static/js/3.6769a145.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.85e9f14e.chunk.css.map": "./static/css/main.85e9f14e.chunk.css.map",
+    "static/css/main.2fe6f5a9.chunk.css.map": "./static/css/main.2fe6f5a9.chunk.css.map",
     "static/js/2.4dae0938.chunk.js.LICENSE.txt": "./static/js/2.4dae0938.chunk.js.LICENSE.txt",
     "static/media/ShoppingCart.scss": "./static/media/what-the-hex.6168eead.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f1c6efde.js",
     "static/js/2.4dae0938.chunk.js",
-    "static/css/main.85e9f14e.chunk.css",
+    "static/css/main.2fe6f5a9.chunk.css",
     "static/js/main.ac1f07bd.chunk.js"
   ]
 }
