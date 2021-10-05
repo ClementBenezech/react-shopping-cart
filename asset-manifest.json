@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.532a61d7.chunk.css",
+    "main.css": "./static/css/main.10a12bc4.chunk.css",
     "main.js": "./static/js/main.1b306f6d.chunk.js",
     "main.js.map": "./static/js/main.1b306f6d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.123d164d.js",
@@ -10,7 +10,7 @@
     "static/js/3.c9d9eb14.chunk.js": "./static/js/3.c9d9eb14.chunk.js",
     "static/js/3.c9d9eb14.chunk.js.map": "./static/js/3.c9d9eb14.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.532a61d7.chunk.css.map": "./static/css/main.532a61d7.chunk.css.map",
+    "static/css/main.10a12bc4.chunk.css.map": "./static/css/main.10a12bc4.chunk.css.map",
     "static/js/2.a204f2a3.chunk.js.LICENSE.txt": "./static/js/2.a204f2a3.chunk.js.LICENSE.txt",
     "static/media/LoginMenu.scss": "./static/media/connectwork.ce2e9831.png",
     "static/media/ShoppingCart.scss": "./static/media/what-the-hex.6168eead.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.123d164d.js",
     "static/js/2.a204f2a3.chunk.js",
-    "static/css/main.532a61d7.chunk.css",
+    "static/css/main.10a12bc4.chunk.css",
     "static/js/main.1b306f6d.chunk.js"
   ]
 }
